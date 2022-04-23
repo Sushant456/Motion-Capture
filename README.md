@@ -3,7 +3,7 @@
 
 
 
-Used
+Used Libraries
 <li>cvzone </li>
 <li>mediapipe </li>
 
